@@ -1,2 +1,2 @@
-print("Hello World")
+rint("Hello World")
 print("this is the third line")
